@@ -1,1 +1,1 @@
-# swagger_automount
+# Skeleton project for Swagger
